@@ -1,4 +1,4 @@
-# OutSourceProject
+# OutSourceProject:
 
 - This is the OutSourceProject Repository.
 - We are happy to collaborate with other developer.
